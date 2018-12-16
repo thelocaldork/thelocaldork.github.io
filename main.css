@@ -26,12 +26,13 @@ header > h1
 header > h3
 {
 	clear: both;
-	text-align: justify;
+	text-align: center;
 }
 
 header > img
 {
-	border-radius: 50%;
+	border-radius: 25%;
 	float: left;
 	max-width: 40%;
+	margin: auto;
 }
