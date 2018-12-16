@@ -31,8 +31,8 @@ header > h3
 
 header > img
 {
-	border-radius: 25%;
+	border-radius: 50%;
 	float: left;
 	max-width: 40%;
-	margin: auto;
+	margin: 1.0em;
 }
