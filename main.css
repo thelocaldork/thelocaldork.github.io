@@ -23,6 +23,7 @@ header > h1
 header > h3
 {
 	clear: both;
+	text-align: justify;
 }
 
 header > img
